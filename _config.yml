@@ -11,7 +11,7 @@ github_repo: "https://github.com/iyongfei/iyongfei.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "当你的才华还撑不起你的野心的时候、你就应该静下心来学习 "
+sidebar-about-description: "勿忘初心,方得始终"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
